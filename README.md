@@ -10,7 +10,7 @@
     3. One public  empty constructor
     4. All public getters and setters
     5. Annotate class and fields with all necessary `javax.persistence` annotations in order to be registered as an Entity.
-        1. This includes columns for `id` and `orderNumber`.
+        1. This includes columns for `id` and `Name`.
     
 ---
 
