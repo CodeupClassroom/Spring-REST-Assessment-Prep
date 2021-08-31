@@ -6,11 +6,11 @@
 
 1. Create the `Ticket` model with the following members:
     1. A private field `id` of type `Long`
-    2. A private field `Name` of type `String`
+    2. A private field `name` of type `String`
     3. One public  empty constructor
     4. All public getters and setters
     5. Annotate class and fields with all necessary `javax.persistence` annotations in order to be registered as an Entity.
-        1. This includes columns for `id` and `Name`.
+        1. This includes columns for `id` and `name`.
     
 ---
 
